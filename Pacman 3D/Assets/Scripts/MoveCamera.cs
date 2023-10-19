@@ -9,6 +9,6 @@ public class MoveCamera : MonoBehaviour
     void Update()
     {
         //Deze code past de camera positie aan zodat hij altijd de player volgt.
-        // transform.position = cameraPosition.position;
+        transform.position = cameraPosition.position;
     }
 }
