@@ -64,7 +64,7 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        //Call de functie die de player laat bewegen.
+        //Call de functie die de player laat bewegen.   
         MovePlayer();
     }
 }
